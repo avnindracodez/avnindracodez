@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [FastDevs ⚡](https://fastdevs.vercel.app/)
 
-- 🌱 I’m currently learning **Angular JS, Roblox Studio**
+- 🌱 I’m currently learning **Blender, Roblox Studio**
 
 - 👯 I’m looking to collaborate on [DevNexus](https://discord.com/users/1190333350192361657)
 
-- 🤝 I’m looking for help with [DevNexus](https://discord.com/users/1190333350192361657)
+- 🤝 I’m looking for investment for [DevNexus](https://discord.com/users/1190333350192361657)
 
-- 💬 Ask me about **React, Vite and java.**
+- 💬 Ask me about **React, Vite and Diddy.**
 
 - 📫 Contact **Discord: avidaddyxd**
 
