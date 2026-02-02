@@ -4,17 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnindracodez&label=Profile%20views&color=0e75b6&style=flat" alt="avnindracodez" /> </p>
 
 
-- 🔭 I’m currently working on [FastDevs ⚡](https://fastdevs.vercel.app/)
+- 🔭 I’m currently working as a roblox game developer.
 
-- 🌱 I’m currently learning **Blender, Roblox Studio**
+- 🌱 I’m currently learning **Blender - 3D Modeling*
 
-- 👯 I’m looking to collaborate on [DevNexus](https://discord.com/users/1190333350192361657)
+- 👯 I’m looking to collaborate on future roblox game development
 
-- 🤝 I’m looking for investment for [DevNexus](https://discord.com/users/1190333350192361657)
+- 💬 Ask me about **anything except love**
 
-- 💬 Ask me about **React, Vite and Diddy.**
-
-- 📫 Contact **Discord: avidaddyxd**
+- 📫 Contact **Discord Username: avidaddyxd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
