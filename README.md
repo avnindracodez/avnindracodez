@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a roblox game developer.
 
-- 🌱 I’m currently learning **Blender - 3D Modeling*
+- 🌱 I’m currently learning **Blender - 3D Modeling**
 
 - 👯 I’m looking to collaborate on future roblox game development
 
