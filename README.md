@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avnindra</h1>
-<h3 align="center">A passionate 17 y/o full-stack developer.</h3>
+<h1 align="center">Hi 👋, I'm Avi </h1>
+<h3 align="center">A passionate 17 y/o Roblox Game & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnindracodez&label=Profile%20views&color=0e75b6&style=flat" alt="avnindracodez" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on future roblox game development
 
-- 💬 Ask me about **anything except love**
+- 💬 Ask me about **Artifical Intelligence**
 
 - 📫 Contact **Discord Username: avidaddyxd**
 
